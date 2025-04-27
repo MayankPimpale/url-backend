@@ -8,6 +8,7 @@ It is built using **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**.
 ## 🛠 Tech Stack
 
 - **Node.js**
+- **Javascript**
 - **Express.js**
 - **MongoDB (Mongoose)**
 - **JWT Authentication**

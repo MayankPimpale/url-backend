@@ -29,7 +29,7 @@ backend/ ├── controllers/ ├── models/ ├── routes/ ├── ut
 ###  Clone the repository
 
 bash
-git clone https://github.com/MayankPimpale/url-backend.git
+git clone https://github.com/mayankkk04/url-backend.git
 cd url-backend
 
 ## 🌍 Deployment
